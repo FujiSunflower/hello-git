@@ -1,2 +1,2 @@
 # hello-git
-To practice how to use GitHub
+To practice how to use GitHub!
