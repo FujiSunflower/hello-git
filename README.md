@@ -6,6 +6,7 @@ To practice how to use GitHub!
   ‰üs*‹­’²*
 
 `float dummy = 0;`
+
     bool somethingBool = true;
     int somethingInt = 0;
 
